@@ -1,0 +1,6 @@
+id	naam	id	persid	device
+NULL	NULL	21	NULL	"Macbook 2"
+NULL	NULL	22	NULL	"iPad 2"
+NULL	NULL	25	NULL	"Macbook 3"
+NULL	NULL	28	NULL	"Laptop 4"
+NULL	NULL	29	NULL	"Macbook 4"

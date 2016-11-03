@@ -1,0 +1,4 @@
+id	naam	id	persid	device
+5	Perro	NULL	NULL	NULL
+6	Gizmo	NULL	NULL	NULL
+7	Hektor	NULL	NULL	NULL
